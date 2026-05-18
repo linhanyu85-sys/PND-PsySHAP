@@ -12,14 +12,6 @@ The latest packaged executable is:
 
 - `PND-PsySHAP.exe`
 
-## Update Note
-
-This build updates the display label formerly shown as Delivery Worry / Delivery Safety Worry to:
-
-- Fear of childbirth
-
-The model file and prediction logic were not changed.
-
 ## Integrity
 
 Use `checksums.sha256` to verify the executable.
